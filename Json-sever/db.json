@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "Hieu",
+      "email": "ábbbbb@gmail.com",
+      "age": "56",
+      "phone": "09123123123",
+      "id": 2
+    },
+    {
+      "username": "Dom",
+      "email": "gádas@gmail.com",
+      "age": "2",
+      "phone": "09123123123",
+      "id": 3
+    },
+    {
+      "username": "AGE",
+      "email": "hieu@gmail.com",
+      "age": "4",
+      "phone": "09123123123",
+      "id": 5
+    }
+  ]
+}
